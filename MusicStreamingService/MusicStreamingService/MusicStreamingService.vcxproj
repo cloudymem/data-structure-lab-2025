@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9eeba2f6-ff53-4d50-8ce8-2def95376ee5}</ProjectGuid>
-    <RootNamespace>Classexample</RootNamespace>
+    <ProjectGuid>{bc627b96-20d2-47e7-8ffa-b2c1ae1f263e}</ProjectGuid>
+    <RootNamespace>MusicStreamingService</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Lec04_Class</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,12 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SportsCar.cpp" />
+    <ClCompile Include="MusicStreaming.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Car.h" />
-    <ClInclude Include="Complex.h" />
-    <ClInclude Include="SportsCar.h" />
+    <ClInclude Include="Musicadder.h" />
+    <ClInclude Include="Music.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

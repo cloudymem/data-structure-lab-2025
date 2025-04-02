@@ -1,29 +1,19 @@
+#include "SportsCar.h"
 #include "Car.h"
+#include "Complex.h"
 
-class SportsCar :public Car
-{
-public:
-	bool bTurbo;
-	void setTurbo(bool bTur)
-	{
-		bTurbo = bTur;
-	}
-	void speedUp()
-	{
-		if (bTurbo)
-			speed += 20;
-		else
-			Car::speedUp();
-	}
-};
 int main()
 {
 	Car myCar;
 	Car MomsCar(10, "K5", 2);
+	SportsCar mySecondCar;
 
 	myCar.whereAmI();
 	MomsCar.whereAmI();
 	myCar.changeGear(3);
 	MomsCar.speedUp();
 	MomsCar.display();
+	mySecondCar.setTurbo(true);
+
+	Car::name = "50";
 }

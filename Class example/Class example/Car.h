@@ -4,9 +4,11 @@
 class Car
 {
 protected:
+	
+public:
 	int speed;
 	char name[40];
-public:
+
 	int gear;
 	Car() {}
 	~Car() {}
