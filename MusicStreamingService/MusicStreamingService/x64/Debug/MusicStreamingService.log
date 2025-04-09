@@ -1,11 +1,2 @@
 ﻿  MusicStreaming.cpp
-C:\Users\USER\Documents\data-structure-lab-2025\MusicStreamingService\MusicStreamingService\Music.h(29,29): error C2059: 구문 오류: ')'
-  (소스 파일 'MusicStreaming.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab-2025\MusicStreamingService\MusicStreamingService\Music.h(30,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-  (소스 파일 'MusicStreaming.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab-2025\MusicStreamingService\MusicStreamingService\Music.h(30,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-  (소스 파일 'MusicStreaming.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab-2025\MusicStreamingService\MusicStreamingService\MusicStreaming.cpp(5,7): error C2059: 구문 오류: '.'
+  MusicStreamingService.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2025\MusicStreamingService\x64\Debug\MusicStreamingService.exe
