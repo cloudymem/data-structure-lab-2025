@@ -3,18 +3,3 @@
 # Visual Studio 캐시 및 빌드 관련 파일 무시
 .vs/
 *.ipch
-*.exe
-*.obj
-*.user
-*.suo
-*.VC.db
-*.pdb
-*.cache
-*.log
-
-# bin/ 또는 obj/ 폴더 무시 (필요 시)
-bin/
-obj/
-
-# 임시 백업 파일
-*~
