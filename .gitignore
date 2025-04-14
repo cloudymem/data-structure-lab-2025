@@ -1,28 +1,20 @@
-# Build results
-*.obj
-*.exe
-*.dll
-*.pdb
-*.ipch
-*.aps
-*.pch
-*.ilk
-*.idb
+# .gitignore 예시
 
-# Visual Studio folder
+# Visual Studio 캐시 및 빌드 관련 파일 무시
 .vs/
 *.ipch
-*.sdf
-*.opensdf
+*.exe
+*.obj
+*.user
+*.suo
 *.VC.db
-*.VC.opendb
-
-# Temporary files
-*.log
-*.tmp
-
-# Others
+*.pdb
 *.cache
-*.class
-*.csproj.user.vs/
-*.ipch
+*.log
+
+# bin/ 또는 obj/ 폴더 무시 (필요 시)
+bin/
+obj/
+
+# 임시 백업 파일
+*~
