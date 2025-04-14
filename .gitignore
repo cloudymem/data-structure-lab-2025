@@ -1,0 +1,28 @@
+# Build results
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ipch
+*.aps
+*.pch
+*.ilk
+*.idb
+
+# Visual Studio folder
+.vs/
+*.ipch
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Temporary files
+*.log
+*.tmp
+
+# Others
+*.cache
+*.class
+*.csproj.user.vs/
+*.ipch
