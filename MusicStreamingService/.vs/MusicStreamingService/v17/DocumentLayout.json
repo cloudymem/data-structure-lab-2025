@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627B96-20D2-47E7-8FFA-B2C1AE1F263E}|MusicStreamingService\\MusicStreamingService.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\MusicStreamingService\\MusicStreaming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC627B96-20D2-47E7-8FFA-B2C1AE1F263E}|MusicStreamingService\\MusicStreamingService.vcxproj|solutionrelative:MusicStreamingService\\MusicStreaming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627B96-20D2-47E7-8FFA-B2C1AE1F263E}|MusicStreamingService\\MusicStreamingService.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\MusicStreamingService\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC627B96-20D2-47E7-8FFA-B2C1AE1F263E}|MusicStreamingService\\MusicStreamingService.vcxproj|solutionrelative:MusicStreamingService\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\MusicStreamingService\\Music.h",
+              "RelativeDocumentMoniker": "MusicStreamingService\\Music.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\MusicStreamingService\\Music.h",
+              "RelativeToolTip": "MusicStreamingService\\Music.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T00:41:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicStreaming.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\MusicStreamingService\\MusicStreaming.cpp",
+              "RelativeDocumentMoniker": "MusicStreamingService\\MusicStreaming.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\MusicStreamingService\\MusicStreamingService\\MusicStreaming.cpp",
+              "RelativeToolTip": "MusicStreamingService\\MusicStreaming.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T00:40:28.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
