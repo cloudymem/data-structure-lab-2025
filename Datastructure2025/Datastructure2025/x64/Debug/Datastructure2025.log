@@ -1,1 +1,5 @@
-﻿
+﻿  lec_15.c
+C:\Users\USER\Documents\data-structure-lab-2025\Datastructure2025\Datastructure2025\lec_15.c(36,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Documents\data-structure-lab-2025\Datastructure2025\Datastructure2025\lec_15.c(71,6): warning C4013: 'testpair'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+lec_15.obj : error LNK2019: testpairmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\USER\Documents\data-structure-lab-2025\Datastructure2025\x64\Debug\Datastructure2025.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

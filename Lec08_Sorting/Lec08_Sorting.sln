@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lec08_Sorting", "Lec08_Sorting\Lec08_Sorting.pyproj", "{75EAAB2A-194B-40EB-951F-04349CD987A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75EAAB2A-194B-40EB-951F-04349CD987A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EAAB2A-194B-40EB-951F-04349CD987A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C23C42FC-53C8-4342-815B-3A383E74FD9F}
+	EndGlobalSection
+EndGlobal

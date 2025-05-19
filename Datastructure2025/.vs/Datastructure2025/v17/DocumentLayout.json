@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6477E6E-A1EF-4702-B022-0802E95FAE15}|Datastructure2025\\Datastructure2025.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\Datastructure2025\\leb7.c||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A6477E6E-A1EF-4702-B022-0802E95FAE15}|Datastructure2025\\Datastructure2025.vcxproj|solutionrelative:Datastructure2025\\leb7.c||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A6477E6E-A1EF-4702-B022-0802E95FAE15}|Datastructure2025\\Datastructure2025.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\Datastructure2025\\lec_15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6477E6E-A1EF-4702-B022-0802E95FAE15}|Datastructure2025\\Datastructure2025.vcxproj|solutionrelative:Datastructure2025\\lec_15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "leb7.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\Datastructure2025\\leb7.c",
-              "RelativeDocumentMoniker": "Datastructure2025\\leb7.c",
-              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\Datastructure2025\\leb7.c",
-              "RelativeToolTip": "Datastructure2025\\leb7.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "lec_15.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\Datastructure2025\\lec_15.c",
+              "RelativeDocumentMoniker": "Datastructure2025\\lec_15.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2025\\Datastructure2025\\Datastructure2025\\lec_15.c",
+              "RelativeToolTip": "Datastructure2025\\lec_15.c",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-25T07:30:05.599Z",
+              "WhenOpened": "2025-05-13T07:34:51.181Z",
               "EditorCaption": ""
             }
           ]
